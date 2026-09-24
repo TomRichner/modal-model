@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modal credentials (normally in ~/.modal.toml; never commit a copy)
+.modal.toml
+modal.toml
+
+# Machine-local agent settings
+.claude/settings.local.json
+.codex/

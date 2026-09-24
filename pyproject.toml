@@ -1,0 +1,9 @@
+[project]
+name = "modal-model"
+version = "0.1.0"
+description = "Testing whether train-srnn can run on Modal"
+requires-python = ">=3.12"
+dependencies = [
+    "modal",
+    "torch",
+]
